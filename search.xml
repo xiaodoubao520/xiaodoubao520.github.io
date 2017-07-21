@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[提莫五号]]></title>
+    <url>%2F2017%2F07%2F21%2F%E6%8F%90%E8%8E%AB%E4%BA%94%E5%8F%B7%2F</url>
+    <content type="text"><![CDATA[介绍 简称：ng Angular是一个MVC框架 12345AngularJS 诞生于2009年，由 Misko Hevery 等人创建，后为Google所收购。是一款优秀的前端JS框架，已经被用于Google的多款产品当中。AngularJS有着诸多特性，最为核心的是：MVC、模块化(编程)、自动化双向数据绑定、语义化标签、指令、依赖注入等等。 其他前端框架： Vue 、 Avalon 、 React 、 BackBone 、 KnockoutJS 原则 不推崇开发人员手动操作DOM, 其底层还是操作DOM 解放双手，简化了HTML的操作（从DOM中解放出来） 如果要在 angular 中操作DOM，就通过 angular 的自定义指令来实现 优势 Angular 最大程度的减少了页面上的 DOM 操作 让 JavaScript 开发专注业务逻辑 代码结构更合理 维护成本更低 通过简单的指令把页面结构和数据结合 通过自定义指令实现组件化编程 使用场景 AngularJS主要考虑的是构建 CRUD 应用，一般是：单页面的应用程序。]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[提莫三号]]></title>
+    <url>%2F2017%2F07%2F21%2F%E6%8F%90%E8%8E%AB%E4%B8%89%E5%8F%B7%2F</url>
+    <content type="text"><![CDATA[原则 不推崇开发人员手动操作DOM, 其底层还是操作DOM 解放双手，简化了HTML的操作（从DOM中解放出来） 如果要在 angular 中操作DOM，就通过 angular 的自定义指令来实现 优势 Angular 最大程度的减少了页面上的 DOM 操作 让 JavaScript 开发专注业务逻辑 代码结构更合理 维护成本更低 通过简单的指令把页面结构和数据结合 通过自定义指令实现组件化编程 使用场景 AngularJS主要考虑的是构建 CRUD 应用，一般是：单页面的应用程序。]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F07%2F21%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[提莫一号]]></title>
+    <url>%2F2017%2F07%2F21%2F%E6%8F%90%E8%8E%AB%E4%B8%80%E5%8F%B7%2F</url>
+    <content type="text"><![CDATA[提莫一号提莫一号提莫一号]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[提莫二号]]></title>
+    <url>%2F2015%2F07%2F21%2F%E6%8F%90%E8%8E%AB%E4%BA%8C%E5%8F%B7%2F</url>
+    <content type="text"><![CDATA[介绍 简称：ng Angular是一个MVC框架 12345AngularJS 诞生于2009年，由 Misko Hevery 等人创建，后为Google所收购。是一款优秀的前端JS框架，已经被用于Google的多款产品当中。AngularJS有着诸多特性，最为核心的是：MVC、模块化(编程)、自动化双向数据绑定、语义化标签、指令、依赖注入等等。 其他前端框架： Vue 、 Avalon 、 React 、 BackBone 、 KnockoutJS]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[提莫零号]]></title>
+    <url>%2F2015%2F06%2F20%2F%E6%8F%90%E8%8E%AB%E5%85%AD%E5%8F%B7%2F</url>
+    <content type="text"><![CDATA[提莫大队长提莫小队长提莫送王者]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+</search>
